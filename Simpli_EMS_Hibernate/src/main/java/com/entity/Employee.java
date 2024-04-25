@@ -14,7 +14,6 @@ public class Employee {
 	@GeneratedValue
 	private int eid;
 	private String name;
-	private String lName;
 	private String gender;
 	private String address;
 	private String mobile;
